@@ -1,0 +1,12 @@
+﻿  CommissionEmployee.cpp
+  Employee.cpp
+  EmployeeMnamgementApp.cpp
+  ExecutiveEmployee.cpp
+  HourlyEmployee.cpp
+  Project.cpp
+  SalariedEmployee.cpp
+  Staff.cpp
+  StaffMember.cpp
+  Volunteer.cpp
+  Generating Code...
+  EmployeeMnamgementApp.vcxproj -> D:\cooding\EmployeeMnamgementApp\x64\Debug\EmployeeMnamgementApp.exe
